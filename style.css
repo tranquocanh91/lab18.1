@@ -1,0 +1,8 @@
+.footer::before {
+  content: "";
+  margin-bottom: 50px;
+}
+.carousel slide::after {
+  content: "";
+  margin: 50px;
+}
